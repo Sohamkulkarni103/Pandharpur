@@ -1,0 +1,39 @@
+img{
+  border: 2px solid black;
+  border-radius: 20px;
+  box-sizing: border-box;
+  box-shadow: 15px;
+}
+.navbar-light{
+  background-color: orange;
+}
+.dropdown-menu{
+  background-color: black;
+}
+.accordion-item{
+  background-color: orange;
+}
+.accordion-header{
+  background-color: violet;
+}
+.col-md-4{
+  border: 3px solid red;
+  box-sizing: border-box;
+  border-radius: 14px;
+  
+}
+body{
+  font-size: large;
+  font-style: calc();
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#myBtn{
+  background-color: violet;
+}
+.col-md-4:hover{
+  transform: translateY(15px);
+}
+.paragraph{
+  padding-left: 100px;
+  padding-right: 100px;
+}
