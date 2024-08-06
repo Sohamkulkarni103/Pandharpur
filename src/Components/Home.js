@@ -40,7 +40,7 @@ const Home = () => {
               </li>
               <li className="nav-item">
                 <Link
-                  to="/about-pandharpur"
+                  to="/about"
                   style={{ color: "#fff", margin: "8px", padding: "8px" }}
                 >
                   About pandharpur
