@@ -7,7 +7,7 @@ const Life = () => {
         <nav className="navbar navbar-expand-lg navbar-light bg-orange navbar-right">
           <a className="navbar-brand" href="#">
             <img
-              src="https://th.bing.com/th/id/OIP.KUvvxkNn_Y0pCRKyDYTBNwHaFj?w=237&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+              src="https://wallpapercave.com/wp/wp8742932.png"
               width="80px"
               height="80px"
             />
